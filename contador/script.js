@@ -54,3 +54,6 @@ const resetar = document.getElementById("resetar")
 resetar.addEventListener("click", () => {
     valor.innerHTML = Number(0)
 })
+
+let valeue = 0
+//It ends here, I won't touch it anymore
